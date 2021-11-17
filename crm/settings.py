@@ -3,8 +3,7 @@ from pathlib import Path
 
 
 
-DEBUG = False
-SECRET_KEY = 'umbc_d!c)xx2ut=q^axqh6h1dw_37kzy8)%dhy5ope&&-r!9_0'
+
 
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
